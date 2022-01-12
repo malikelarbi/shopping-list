@@ -1,3 +1,5 @@
 - Bacon
 - Eggs
 - Xbox
+- iPhone
+- Soda
